@@ -2,7 +2,7 @@ Hey Everyone, below is a list of Data Analytics projects that I've created and d
 Feel free to take a look on it !
 
 # Indian Airlines Flight Trends and Insights
-## Description:
+**Description**:
 India's domestic aviation sector involves high traffic between cities like Delhi, Mumbai, Bangalore, Chennai, Hyderabad and Kolkata but lacks a comprehensive analysis of flight trends. 
 To address this, Python was used for data analysis, and Power BI was implemented to create an interactive dashboard for data visualization. 
 This project analyzed key metrics such as the longest and shortest flights, total flight counts, and maximum ticket prices, providing actionable insights that can help optimize flight schedules and pricing strategies.
