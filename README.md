@@ -27,8 +27,8 @@ India's domestic aviation sector experiences high traffic between major cities b
 - Built an interactive Power BI dashboard for operational insights.
 
 ## 📊 Dashboard Preview
-![Airlines Dashboard 1](https://raw.githubusercontent.com/AtharvaAthanikar2003/Data-Analytics-Projects-Using-SQL-Power-BI-Python/master/Airlines%20Data%20Analysis/image1.png)
-![Airlines Dashboard 2](https://raw.githubusercontent.com/AtharvaAthanikar2003/Data-Analytics-Projects-Using-SQL-Power-BI-Python/master/Airlines%20Data%20Analysis/image2.png)
+![Airlines Dashboard 1](https://raw.githubusercontent.com/AtharvaAthanikar2003/Data-Analytics-Projects-Using-SQL-Power-BI-Python/master/Airlines%20Data%20Analysis/Airlines Data Overview Analysis.png)
+![Airlines Dashboard 2](https://raw.githubusercontent.com/AtharvaAthanikar2003/Data-Analytics-Projects-Using-SQL-Power-BI-Python/master/Airlines%20Data%20Analysis/Airlines Data Trip Details.png)
 
 ---
 
